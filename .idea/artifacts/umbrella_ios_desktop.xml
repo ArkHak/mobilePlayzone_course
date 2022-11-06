@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="umbrella-ios-desktop">
+    <output-path>$PROJECT_DIR$/common/umbrella-ios/build/libs</output-path>
+    <root id="archive" name="umbrella-ios-desktop.jar">
+      <element id="module-output" name="mobilePlayzone_course.common.umbrella-ios.desktopMain" />
+    </root>
+  </artifact>
+</component>
