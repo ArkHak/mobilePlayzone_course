@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -8,9 +9,25 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/android" />
+            <option value="$PROJECT_DIR$/androidApp" />
+            <option value="$PROJECT_DIR$/buildSrc" />
             <option value="$PROJECT_DIR$/common" />
-            <option value="$PROJECT_DIR$/desktop" />
+            <option value="$PROJECT_DIR$/common/auth" />
+            <option value="$PROJECT_DIR$/common/auth/api" />
+            <option value="$PROJECT_DIR$/common/auth/data" />
+            <option value="$PROJECT_DIR$/common/auth/presentation" />
+            <option value="$PROJECT_DIR$/common/core" />
+            <option value="$PROJECT_DIR$/common/games" />
+            <option value="$PROJECT_DIR$/common/games/api" />
+            <option value="$PROJECT_DIR$/common/games/data" />
+            <option value="$PROJECT_DIR$/common/games/presentation" />
+            <option value="$PROJECT_DIR$/common/tournaments" />
+            <option value="$PROJECT_DIR$/common/tournaments/api" />
+            <option value="$PROJECT_DIR$/common/tournaments/data" />
+            <option value="$PROJECT_DIR$/common/tournaments/presentation" />
+            <option value="$PROJECT_DIR$/common/umbrella-compose" />
+            <option value="$PROJECT_DIR$/common/umbrella-ios" />
+            <option value="$PROJECT_DIR$/shared" />
           </set>
         </option>
       </GradleProjectSettings>
