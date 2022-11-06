@@ -1,4 +1,4 @@
 class TestClass {
 
-    fun helloWorld() = "Hello, Compose"
+    fun helloWorld() = "Hello, part2"
 }
